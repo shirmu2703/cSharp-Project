@@ -15,28 +15,6 @@ A desktop real estate management system built in C#, where each employee can log
 - Windows Forms (WinForms)
 - JSON Serialization (via `Newtonsoft.Json`)
 - Object-Oriented Programming
-- 
-# Project Structure
-/NEW_PROJECT
-│
-├── LoginForm.cs # Login screen logic
-├── HomeForm.cs # Main menu and navigation
-├── AddPropertyForm.cs # Form to add new properties
-├── ViewPropertiesForm.cs # Form to view/delete properties
-│
-├── Property.cs # Base class and derived types (Apartment, Office, etc.)
-├── PropertyManager.cs # Handles business logic and property storage
-├── JsonDataManager.cs # Implements file I/O for properties.json
-├── IDataManager.cs # Interface for data persistence
-│
-├── Constants.cs # App-wide constants (e.g., min price)
-├── PropertyType.cs # Enum: Apartment, PrivateHouse, Office
-├── /Properties/ # Form designer resources
-└── properties.json # Local JSON file storing all property data
-
-yaml
-Copy
-Edit
 
 # How to Run
 1. Open the project in **Visual Studio**
