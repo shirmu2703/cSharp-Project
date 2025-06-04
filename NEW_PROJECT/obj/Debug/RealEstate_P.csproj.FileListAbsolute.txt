@@ -1,0 +1,15 @@
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\bin\Debug\NEW_PROJECT.exe.config
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\bin\Debug\NEW_PROJECT.exe
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\bin\Debug\NEW_PROJECT.pdb
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\RealEstate_P.csproj.AssemblyReference.cache
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\NEW_PROJECT.AddPropertyForm.resources
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\NEW_PROJECT.HomeForm.resources
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\NEW_PROJECT.LoginForm.resources
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\NEW_PROJECT.Properties.Resources.resources
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\RealEstate_P.csproj.GenerateResource.cache
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\RealEstate_P.csproj.CoreCompileInputs.cache
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\RealEsta.D53E05AE.Up2Date
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\NEW_PROJECT.exe
+C:\Users\shirm\OneDrive\שולחן העבודה\NEW_PROJECT\obj\Debug\NEW_PROJECT.pdb

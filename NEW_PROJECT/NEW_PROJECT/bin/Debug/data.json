@@ -1,0 +1,12 @@
+{
+  "$type": "System.Collections.Generic.List`1[[NEW_PROJECT.Property, NEW_PROJECT]], mscorlib",
+  "$values": [
+    {
+      "$type": "NEW_PROJECT.PrivateHouse, NEW_PROJECT",
+      "Name": "home",
+      "Address": "haderah",
+      "Type": 0,
+      "Price": 20.0
+    }
+  ]
+}

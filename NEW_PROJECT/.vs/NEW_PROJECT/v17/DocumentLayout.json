@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|c:\\users\\shirm\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\new_project\\viewpropertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:viewpropertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\addpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:addpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\addpropertyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:addpropertyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\jsondatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:jsondatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\propertymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:propertymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\viewpropertiesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:viewpropertiesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9237A044-3828-4710-933C-9BB7000C492E}|RealEstate_P.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:59:03.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyManager.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\PropertyManager.cs",
+              "RelativeDocumentMoniker": "PropertyManager.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\PropertyManager.cs",
+              "RelativeToolTip": "PropertyManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:52:09.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyType.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\PropertyType.cs",
+              "RelativeDocumentMoniker": "PropertyType.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\PropertyType.cs",
+              "RelativeToolTip": "PropertyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:51:58.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\Property.cs",
+              "RelativeDocumentMoniker": "Property.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\Property.cs",
+              "RelativeToolTip": "Property.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:51:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPropertyForm.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\AddPropertyForm.cs",
+              "RelativeDocumentMoniker": "AddPropertyForm.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\AddPropertyForm.cs",
+              "RelativeToolTip": "AddPropertyForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAhwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:27:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\HomeForm.cs",
+              "RelativeToolTip": "HomeForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:46:01.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewPropertiesForm.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\ViewPropertiesForm.cs",
+              "RelativeDocumentMoniker": "ViewPropertiesForm.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\ViewPropertiesForm.cs",
+              "RelativeToolTip": "ViewPropertiesForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:46:33.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\IDataManager.cs",
+              "RelativeDocumentMoniker": "IDataManager.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\IDataManager.cs",
+              "RelativeToolTip": "IDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:52:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\JsonDataManager.cs",
+              "RelativeDocumentMoniker": "JsonDataManager.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\JsonDataManager.cs",
+              "RelativeToolTip": "JsonDataManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:52:44.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddPropertyForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\AddPropertyForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddPropertyForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\AddPropertyForm.Designer.cs",
+              "RelativeToolTip": "AddPropertyForm.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:57:07.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\HomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "HomeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\HomeForm.Designer.cs",
+              "RelativeToolTip": "HomeForm.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:58:29.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:51:14.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewPropertiesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\ViewPropertiesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ViewPropertiesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\ViewPropertiesForm.Designer.cs",
+              "RelativeToolTip": "ViewPropertiesForm.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:49:54.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\shirm\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\NEW_PROJECT\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:38:42.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
